@@ -71,7 +71,7 @@ Hints
 -Refer to the Plotly.js documentationLinks to an external site. when building the plots.
 
 
-Resources
+## Resources
 
 Classes
 
